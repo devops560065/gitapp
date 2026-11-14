@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/azuredevops56/AgileProject/_apis/build/status%2Fdevops560065.gitapp?branchName=master)](https://dev.azure.com/azuredevops56/AgileProject/_build/latest?definitionId=11&branchName=master)
